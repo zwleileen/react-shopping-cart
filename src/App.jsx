@@ -1,9 +1,11 @@
 // src/App.jsx
+import './App.css';
+import Shop from "./components/Shop/Shop"
 
 const App = () => {
 
   return (
-    <h1>Hello world!</h1>
+    <Shop/>
   );
 }
 
